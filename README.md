@@ -27,10 +27,10 @@ class AnshulAgarwal:
     location    = "Bangalore, India 🇮🇳"
     education   = "B.Tech AI & ML — Sir MVIT (2022–2026)"
     
-    languages   = ["Python", "Java", "C/C++", "SQL", "JavaScript"]
-    frameworks  = ["FastAPI", "Spring Boot", "React.js", "Scikit-learn"]
-    ai_stack    = ["LLM Agents", "RAG", "Tool Use", "NLP", "Agentic AI"]
-    databases   = ["MySQL", "MongoDB", "PostgreSQL", "Redis"]
+    languages   = ["Python", "Java", "C/C++", "SQL"]
+    frameworks  = ["FastAPI", "Scikit-learn", "LangChain", "Hugging Face Transformers"]
+    ai_stack    = ["LLM Agents", "RAG", "Tool Use", "NLP", "Agentic AI", "Embeddings"]
+    databases   = ["MySQL", "MongoDB", "PostgreSQL"]
     cloud       = ["AWS", "Azure", "Linux"]
     
     currently   = "Building agentic AI systems for enterprise IT"
@@ -60,7 +60,7 @@ me.say_hi()
 
 > *"An AI that doesn't just answer — it acts."*
 
-AI-powered IT helpdesk assistant built for **Black Box Network Services AI CoE**. Uses a ReAct-style agentic loop with LLaMA 3.1 and function calling to handle multi-step IT queries end-to-end.
+AI-powered IT helpdesk assistant . Uses a ReAct-style agentic loop with LLaMA 3.1 and function calling to handle multi-step IT queries end-to-end.
 
 ```
 TOOLS DEPLOYED:
