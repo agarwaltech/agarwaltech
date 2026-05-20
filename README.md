@@ -3,6 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00FFF9&center=true&vCenter=true&width=700&lines=%5BSYSTEM+ONLINE%5D+Initializing+Anshul.exe...;AI+Engineer+%7C+LLM+Agents+%7C+Agentic+Systems;B.Tech+AI+%26+ML+%40+Sir+MVIT+Bangalore;Building+tools+that+think+for+themselves+%F0%9F%A4%96;Open+to+AI+%2F+ML+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/_%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-eng)
