@@ -60,7 +60,7 @@ me.say_hi()
 
 > *"An AI that doesn't just answer — it acts."*
 
-AI-powered IT helpdesk assistant . Uses a ReAct-style agentic loop with LLaMA 3.1 and function calling to handle multi-step IT queries end-to-end.
+AI-powered IT helpdesk assistant. Uses a ReAct-style agentic loop with LLaMA 3.1 and function calling to handle multi-step IT queries end-to-end.
 
 ```
 TOOLS DEPLOYED:
@@ -78,6 +78,32 @@ TOOLS DEPLOYED:
 ![Agentic](https://img.shields.io/badge/Agentic%20AI-6366f1?style=flat-square)
 
 </td>
+<td width="50%" valign="top">
+
+### 🔬 [ResearchMind — Multi-Agent Research System](https://github.com/agarwaltech/researchmind)
+
+> *"Four agents. One report. Zero manual effort."*
+
+Fully autonomous multi-agent research pipeline. Give it a topic — it searches the web, scrapes deep content, writes a structured report, and critiques its own output. Live on Streamlit.
+
+```
+PIPELINE:
+├── Search Agent  (Tavily API)
+├── Reader Agent  (BeautifulSoup)
+├── Writer Chain  (Mistral AI)
+└── Critic Chain  (Score + Feedback)
+```
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0F?style=flat-square&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral%20AI-F7572B?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+🚀 **[Live Demo](https://researchmind-f7q3fb2rjlwrx3webzdcwl.streamlit.app)**
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📊 [Customer Churn Analysis](https://github.com/agarwaltech/customer-churn-analysis)
@@ -100,8 +126,6 @@ PIPELINE:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📄 [Resume Screening System](https://github.com/agarwaltech/resume-screening-system)
@@ -121,26 +145,6 @@ SYSTEM:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-00fff9?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [RakshaKavach](https://github.com/agarwaltech/RakshaKavach)
-
-> *"Safety, engineered."*
-
-Android safety application built with Kotlin for real-world personal security use cases.
-
-```
-FEATURES:
-├── Real-time Alerts
-├── Location Tracking
-├── Emergency Contacts
-└── Native Android UI
-```
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 </td>
 </tr>
